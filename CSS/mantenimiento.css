@@ -58,6 +58,7 @@ body{
     padding: 15px 30px;
 }
 
+
 ul{
     padding: 0;
     list-style: none;
@@ -85,9 +86,15 @@ p{
     margin-left: 89%;
 }
 
-.titulo{
-    font-style: bold;
-    font-size: 30px;
+.contenedor{
+    border: 2px solid  #42a59f;
+    border-radius: 25px;
+    padding: 1% 2%;
+    margin: 1%;
+    text-align: center;
+    background-color: #51bea1;
+    margin-top:50px;
+    margin-bottom: 50px;
 }
 
 .paginas{

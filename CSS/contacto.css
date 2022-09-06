@@ -110,6 +110,8 @@ p{
 }
 
 .paginas{
+    padding: 4px 7px;
+    border-radius: 3px;
     transition: 1s background-color;
 }
 
